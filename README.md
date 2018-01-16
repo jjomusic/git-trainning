@@ -6,4 +6,4 @@ commit4
 commmit5
 commit6
 merge branch
-prueba 1
+prueba
